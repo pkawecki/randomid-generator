@@ -1,0 +1,8 @@
+{
+  "name": "@przemo41/randomid-generator",
+  "version": "1.0.2",
+  "main": "index.js",
+  "repository": "https://github.com/pkawecki/electron-counter.git",
+  "author": "Przemek Kawecki <przemek.kawecki@gmail.com>",
+  "license": "MIT"
+}
